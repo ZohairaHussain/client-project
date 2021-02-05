@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.purple{
+    
+}
+header .container{
+    background: transparent;
+    position: absolute;
+    z-index: 1;
+}
+.logo img{
+    padding-top: 1.5rem;
+    padding-left: 15rem;
+}
+.navbar{}
+.navbar ul{
+    margin-left: 13rem;
+    list-style-type: none;
+}
+.navbar ul li{
+    font-family: poppins , sans-serif;
+    text-transform: uppercase;
+    padding-top: 2rem;
+    color: #DCE3FF;
+    float: left;
+    margin-left:1.5rem;
+    font-size: 0.8rem;
+}
+.banner{
+    position: relative;
+    background-color: #430064;
+}
+.banner .dotes{
+    position: absolute;
+    padding-top: 32rem;
+    margin-left: -5rem;
+    /* padding-left: none !important; */
+}
+.banner .dotes img{
+    height: 5.5rem;
+    width: 3rem;
+}
+.banner .triangles{}
+.banner .triangles .colum1{
+    margin-top: 7rem;
+}
+.banner .triangles .colum1 img{
+    margin-left: -4.5rem;
+    height: 3.5rem;
+}
+.banner .triangles .colum2{
+    margin-top: 20rem;
+    padding-bottom: 3rem;
+}
+.banner .triangles .colum2 img{
+    margin-left: -2rem;
+    height: 3rem;
+}
+.banner .about{
+    font-family: poppins , sans-serif;
+    align-items: center;
+    padding-left: 2rem;
+    padding-top: 12rem;
+    max-width: 20rem;
+}
+.banner .about h2{
+    font-weight:bolder;
+    line-height: 3rem;
+    color: white;
+    text-transform: capitalize;
+    /* font-size: 1.5rem; */
+    font-size: 2.8rem;
+}
+.banner .about p{
+    line-height: 1rem;
+    margin-top: -0.5rem;
+    color: #DCE3FF;
+    font-size: 0.8rem;
+    text-align: justify;
+}
+.banner .about span{
+    
+}
+.banner .about span button{
+    margin-top: 0.5rem;
+    color: #7E35FE;
+    font-size: 0.7rem;
+    padding: 0.5rem 1rem;
+    text-transform: capitalize;
+    border-radius: 0.3rem;
+}
+.banner .images{
+    position: relative;
+}
+.banner .images .pic1{
+    margin-bottom: -1rem;
+    padding-top: 5rem;
+}
+.banner .images .pic1 img{
+    max-height: 9rem;
+}
+.banner .images .pic2{
+    position: absolute;
+    z-index: 1;
+}
+.banner .images .pic2 img{
+    margin-top: -6rem;
+    margin-left: -2rem;
+    max-height: 28rem;
+}
+.banner .images .pic3{
+    /* padding-bottom: 4rem; */
+    padding-left: 22rem;
+    margin-top: 3rem;
+}
+.banner .images .pic3 img{
+    /* padding-top: 1rem; */
+    /* padding-left: 24rem; */
+    margin-bottom: -30rem;
+    max-height: 9rem;
+}
+.banner .pic4{
+    padding-top: 28rem;
+    padding-left: 5rem;
+}
+.banner .pic4 img{
+    max-width: 3rem;
+}
